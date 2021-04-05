@@ -5,8 +5,8 @@ Skills: C++ / C / JS / HTML / CSS
 
 - 🔭 I’m currently working on enhancing my skills and contributing more this year....😄 
 - 🌱 I’m currently learning , well it is hard to define but something....😜 
-- 📫 How to reach me: look down below...
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
+- 📫 How to reach me: look down below...
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk)  
 
