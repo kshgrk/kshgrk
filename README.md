@@ -7,8 +7,7 @@ Skills: C++ / C / JS / HTML / CSS
 - 🌱 I’m currently learning , well it is hard to define but something....😜 
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: look down below...👇🏻
-
-[<img src='https://www.iconsdb.com/icons/preview/gray/github-11-xxl.png' alt='github' height='26'>](https://github.com/kshgrk)  [<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/kushagra-kaushal/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='26'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='26'>](https://twitter.com/k_UGH_shagra)  
+[<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/kushagra-kaushal/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='26'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='26'>](https://twitter.com/k_UGH_shagra)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk&bg_color=011627&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true)  
 
