@@ -8,7 +8,7 @@ Skills: C++ / C / JS / HTML / CSS
 - 📫 How to reach me: look down below... 
 - 😄 Pronouns: he/him/his 
 
-(https://i.imgur.com/DoDtBRg.png)
+![My current setup....](https://i.imgur.com/DoDtBRg.png)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kshgrk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kushagra-kaushal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/k_UGH_shagra)  
