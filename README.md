@@ -8,6 +8,8 @@ Skills: C++ / C / JS / HTML / CSS
 - 📫 How to reach me: look down below...
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk)  
+
 ![My current setup....](https://i.imgur.com/DoDtBRg.png)
 <br />
 <br/>
@@ -21,8 +23,6 @@ Skills: C++ / C / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshgrk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshgrk&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kshgrk)  
 
