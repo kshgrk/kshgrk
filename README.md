@@ -1,14 +1,17 @@
-### Hi there 👋, my name is Kushagra Kaushal
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kushagra Kaushal
 I am a student and currently pursuing B.Tech in Information Technology (IT) at IIIT Bhopal. 
 
 Skills: C++ / C / JS / HTML / CSS
 
 - 🔭 I’m currently working on enhancing my skills and contributing more this year....😄 
 - 🌱 I’m currently learning , well it is hard to define but something....😜 
-- 📫 How to reach me: look down below... 
-- 😄 Pronouns: he/him/his 
+- 📫 How to reach me: look down below...
+- 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 
 ![My current setup....](https://i.imgur.com/DoDtBRg.png)
+<br />
+<br/>
+![Counter](https://visitor-badge.glitch.me/badge?page_id=kshgrk.visitor-badge)
 
 
 [<img src='https://www.iconsdb.com/icons/preview/gray/github-11-xxl.png' alt='github' height='40'>](https://github.com/kshgrk)  [<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kushagra-kaushal/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='40'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='40'>](https://twitter.com/k_UGH_shagra)  
