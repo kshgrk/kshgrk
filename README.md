@@ -10,12 +10,13 @@ Skills: C++ / C / JS / HTML / CSS
 
 [<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/kushagra-kaushal/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='26'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='26'>](https://twitter.com/k_UGH_shagra)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk&bg_color=011627&color=e4e2e2&line=24292e&point=24292e&area=true&hide_border=true)  
+![Counter](https://visitor-badge.glitch.me/badge?page_id=kshgrk.visitor-badge)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true)  
 
 ![My current setup....](https://i.imgur.com/DoDtBRg.png)
 <br/>
 <br/>
-![Counter](https://visitor-badge.glitch.me/badge?page_id=kshgrk.visitor-badge)
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='26' height='26'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='26' height='26'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='26' height='26'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='26' height='26'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='26' height='26'></a> -->
 <br>
