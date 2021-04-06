@@ -8,7 +8,7 @@ Skills: C++ / C / JS / HTML / CSS
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: look down below...👇🏻
 
-[<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/kushagra-kaushal/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='26'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='26'>](https://twitter.com/k_UGH_shagra)  
+[<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/kushagra-kaushal-858244201/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='26'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='26'>](https://twitter.com/k_UGH_shagra)  
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=kshgrk.visitor-badge)
 
