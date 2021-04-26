@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kushagra Kaushal
 I am a student and currently pursuing B.Tech in Information Technology (IT) at IIIT Bhopal. 
 
-Skills: C++ / C / JS / HTML / CSS
+Skills: C++ / C / JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on enhancing my skills and contributing more this year....😄 
 - 🌱 I’m currently learning , well it is hard to define but something....😜 
