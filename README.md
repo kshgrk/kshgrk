@@ -10,8 +10,6 @@ Skills: C++ / C / JS / HTML / CSS / Python
 
 [<img src='https://www.iconsdb.com/icons/preview/gray/linkedin-4-xxl.png' alt='linkedin' height='26'>](https://www.linkedin.com/in/kushagra-kaushal-858244201/)  [<img src='https://www.iconsdb.com/icons/preview/gray/instagram-4-xxl.png' alt='instagram' height='26'>](https://www.instagram.com/kaushal._.kushagra911/)  [<img src='https://www.iconsdb.com/icons/preview/gray/twitter-4-xxl.png' alt='twitter' height='26'>](https://twitter.com/k_UGH_shagra)  
 
-![Counter](https://visitor-badge.glitch.me/badge?page_id=kshgrk.visitor-badge)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true)  
 
 ![My current setup....](https://user-images.githubusercontent.com/75542933/120078596-cd4aeb80-c0cd-11eb-9ed3-de0f19b3c4c5.png)
