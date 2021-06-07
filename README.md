@@ -12,7 +12,8 @@ Skills: C++ / C / JS / HTML / CSS / Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kshgrk&bg_color=011627&color=e4e2e2&line=fafafa&point=f4f2f2&area=true&hide_border=true)  
 
-![My current setup....](https://user-images.githubusercontent.com/75542933/120078596-cd4aeb80-c0cd-11eb-9ed3-de0f19b3c4c5.png)
+![My current setup....](https://user-images.githubusercontent.com/75542933/121058598-2279b200-c7de-11eb-8888-5db256a7fe85.png)
+
 <br/>
 <br/>
 
