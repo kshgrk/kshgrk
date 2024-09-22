@@ -1,4 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Kushagra Kaushal
 **Data Scientist | Data Engineer**
 
 > *"The beauty of mathematics lies in its ability to reveal patterns in data, and the power of engineering lies in its capacity to transform those patterns into impactful solutions."*
